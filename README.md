@@ -3,3 +3,5 @@ Just updated for Normal Use
 
 Added Trailing, added Stoploss
 Added some notes.
+
+https://t.me/quasselcore
